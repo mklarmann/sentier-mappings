@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://data.sentier.dev/mappings/schema/metadata",
+  "title": "Sentier mappings bridge metadata",
+  "description": "Identity file (metadata.json) carried by each data/<NN>-<source>__<target>/ bridge folder.",
+  "type": "object",
+  "required": ["source", "target", "title", "rank", "kinds", "target_proprietary", "schema_version"],
+  "additionalProperties": true,
+  "properties": {
+    "source": { "type": "string", "description": "Lower-kebab source datasource id, e.g. agribalyse-3.2." },
+    "target": { "type": "string", "description": "Lower-kebab target datasource id, e.g. ecoinvent-3.9.1, ef-3.1, or a Sentier source." },
+    "title": { "type": "string", "description": "Human-readable bridge title." },
+    "rank": { "type": "integer", "minimum": 1, "description": "Resolution precedence; lower wins on conflict." },
+    "kinds": {
+      "type": "array",
+      "description": "Which package files are present in this bridge.",
+      "items": { "type": "string", "enum": ["technosphere", "biosphere"] },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "target_proprietary": {
+      "type": "boolean",
+      "description": "true ⇒ targets are opaque codes only (ecoinvent); false ⇒ full open identifiers."
+    },
+    "schema_version": { "type": "string", "description": "Mapping-schema version, e.g. 0.1.0." },
+    "entry_counts": {
+      "type": "object",
+      "description": "Per-kind entry counts.",
+      "additionalProperties": { "type": "integer", "minimum": 0 }
+    }
+  }
+}
