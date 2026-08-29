@@ -150913,6 +150913,27 @@
   },
   {
    "source": {
+    "name": "Occupation, semi-natural grassland, EG",
+    "code": "55d6e1c82ae48ab45eb9b30daa59fc8b",
+    "unit": "m2a",
+    "context": [
+     "resources",
+     "unspecified"
+    ]
+   },
+   "target": {
+    "name": "grassland",
+    "code": "82801171-9dd0-428e-9cb5-1e9c4211b2f7",
+    "unit": "m2*a",
+    "context": [
+     "Land use",
+     "Land occupation"
+    ]
+   },
+   "comment": "Eaternity: name-evidence resolution (synonym_table) of BAFU class 'semi-natural grassland' -> EF stem 'grassland' (occupation); location=EG; EF 3.1 land-use CF 0.0 at EG equals the CF lci-workbench ships for this flow (JRC EF-LCIAMethod_CF(EF-v3.1).xlsx)"
+  },
+  {
+   "source": {
     "name": "Occupation, forest, intensive, normal, CH",
     "code": "55d8b29ca85530fd251c685ff978d459",
     "unit": "m2a",
@@ -189406,6 +189427,27 @@
   },
   {
    "source": {
+    "name": "Occupation, semi-natural grassland, LS",
+    "code": "709364a4528d6d4f126e6ed00e2748e0",
+    "unit": "m2a",
+    "context": [
+     "resources",
+     "unspecified"
+    ]
+   },
+   "target": {
+    "name": "grassland",
+    "code": "82801171-9dd0-428e-9cb5-1e9c4211b2f7",
+    "unit": "m2*a",
+    "context": [
+     "Land use",
+     "Land occupation"
+    ]
+   },
+   "comment": "Eaternity: name-evidence resolution (synonym_table) of BAFU class 'semi-natural grassland' -> EF stem 'grassland' (occupation); location=LS; EF 3.1 land-use CF 0.0 at LS equals the CF lci-workbench ships for this flow (JRC EF-LCIAMethod_CF(EF-v3.1).xlsx)"
+  },
+  {
+   "source": {
     "name": "Occupation, mixed forest, PAO",
     "code": "7093ee9991c9f980e45d6f9c0fe5889a",
     "unit": "m2a",
@@ -195073,6 +195115,27 @@
     ]
    },
    "comment": "Eaternity: name-evidence resolution (synonym_table) of BAFU class 'permanent crop, vine, extensive' -> EF stem 'permanent crops, non-irrigated, extensive' (occupation); location=KE; EF 3.1 land-use CF -3.0739 at KE equals the CF lci-workbench ships for this flow (JRC EF-LCIAMethod_CF(EF-v3.1).xlsx)"
+  },
+  {
+   "source": {
+    "name": "Occupation, semi-natural grassland, JO",
+    "code": "74c773fb23a398845cf94210c164731d",
+    "unit": "m2a",
+    "context": [
+     "resources",
+     "unspecified"
+    ]
+   },
+   "target": {
+    "name": "grassland",
+    "code": "82801171-9dd0-428e-9cb5-1e9c4211b2f7",
+    "unit": "m2*a",
+    "context": [
+     "Land use",
+     "Land occupation"
+    ]
+   },
+   "comment": "Eaternity: name-evidence resolution (synonym_table) of BAFU class 'semi-natural grassland' -> EF stem 'grassland' (occupation); location=JO; EF 3.1 land-use CF 0.0 at JO equals the CF lci-workbench ships for this flow (JRC EF-LCIAMethod_CF(EF-v3.1).xlsx)"
   },
   {
    "source": {
@@ -250201,6 +250264,27 @@
   },
   {
    "source": {
+    "name": "Occupation, semi-natural grassland, SA",
+    "code": "991284f79e315dfa4acd90ac733eef2c",
+    "unit": "m2a",
+    "context": [
+     "resources",
+     "unspecified"
+    ]
+   },
+   "target": {
+    "name": "grassland",
+    "code": "82801171-9dd0-428e-9cb5-1e9c4211b2f7",
+    "unit": "m2*a",
+    "context": [
+     "Land use",
+     "Land occupation"
+    ]
+   },
+   "comment": "Eaternity: name-evidence resolution (synonym_table) of BAFU class 'semi-natural grassland' -> EF stem 'grassland' (occupation); location=SA; EF 3.1 land-use CF 0.0 at SA equals the CF lci-workbench ships for this flow (JRC EF-LCIAMethod_CF(EF-v3.1).xlsx)"
+  },
+  {
+   "source": {
     "name": "Occupation, broad leafed plantations, TO",
     "code": "9912b37d3f6edbb146aad91c50be3e00",
     "unit": "m2a",
@@ -272227,6 +272311,27 @@
     ]
    },
    "comment": "Eaternity: name-evidence resolution (explicit_map) of BAFU class 'forest, extensive' -> EF stem 'forest, extensive' (occupation); location=IO; EF 3.1 land-use CF 18.128 at GLO equals the CF lci-workbench ships for this flow (JRC EF-LCIAMethod_CF(EF-v3.1).xlsx); 'IO' is a region code JRC does not resolve; the CF is the GLO default — the pair still keeps 'IO' as its location"
+  },
+  {
+   "source": {
+    "name": "Occupation, transitional woodland/shrub, AW",
+    "code": "a7f06cd31e98409157eb6452143e4a10",
+    "unit": "m2a",
+    "context": [
+     "resources",
+     "unspecified"
+    ]
+   },
+   "target": {
+    "name": "shrub land",
+    "code": "8ee82f3b-c2dd-4807-8e65-b33dc05f4aee",
+    "unit": "m2*a",
+    "context": [
+     "Land use",
+     "Land occupation"
+    ]
+   },
+   "comment": "Eaternity: name-evidence resolution (synonym_table) of BAFU class 'transitional woodland/shrub' -> EF stem 'shrub land' (occupation); location=AW; EF 3.1 land-use CF 0.0 at AW equals the CF lci-workbench ships for this flow (JRC EF-LCIAMethod_CF(EF-v3.1).xlsx)"
   },
   {
    "source": {
@@ -312025,6 +312130,27 @@
   },
   {
    "source": {
+    "name": "Occupation, transitional woodland/shrub, BQ",
+    "code": "c335b3589932a924fbeeb280493a0585",
+    "unit": "m2a",
+    "context": [
+     "resources",
+     "unspecified"
+    ]
+   },
+   "target": {
+    "name": "shrub land",
+    "code": "8ee82f3b-c2dd-4807-8e65-b33dc05f4aee",
+    "unit": "m2*a",
+    "context": [
+     "Land use",
+     "Land occupation"
+    ]
+   },
+   "comment": "Eaternity: name-evidence resolution (synonym_table) of BAFU class 'transitional woodland/shrub' -> EF stem 'shrub land' (occupation); location=BQ; EF 3.1 land-use CF 0.0 at BQ equals the CF lci-workbench ships for this flow (JRC EF-LCIAMethod_CF(EF-v3.1).xlsx)"
+  },
+  {
+   "source": {
     "name": "Occupation, forest, reduced impact logging, RO",
     "code": "c335c155203d6ca64aac222cc465d965",
     "unit": "m2a",
@@ -321076,6 +321202,27 @@
   },
   {
    "source": {
+    "name": "Occupation, semi-natural grassland, YE",
+    "code": "c93dd418e5514408bbb79504f9c86024",
+    "unit": "m2a",
+    "context": [
+     "resources",
+     "unspecified"
+    ]
+   },
+   "target": {
+    "name": "grassland",
+    "code": "82801171-9dd0-428e-9cb5-1e9c4211b2f7",
+    "unit": "m2*a",
+    "context": [
+     "Land use",
+     "Land occupation"
+    ]
+   },
+   "comment": "Eaternity: name-evidence resolution (synonym_table) of BAFU class 'semi-natural grassland' -> EF stem 'grassland' (occupation); location=YE; EF 3.1 land-use CF 0.0 at YE equals the CF lci-workbench ships for this flow (JRC EF-LCIAMethod_CF(EF-v3.1).xlsx)"
+  },
+  {
+   "source": {
     "name": "Occupation, arable, non-irrigated, ES",
     "code": "c93f7163954ecbd92defa2f5f67fbaac",
     "unit": "m2a",
@@ -321262,6 +321409,27 @@
     ]
    },
    "comment": "Eaternity: name-evidence resolution (synonym_table) of BAFU class 'permanent crop, vine, extensive' -> EF stem 'permanent crops, non-irrigated, extensive' (occupation); location=BF; EF 3.1 land-use CF 35.432 at BF equals the CF lci-workbench ships for this flow (JRC EF-LCIAMethod_CF(EF-v3.1).xlsx)"
+  },
+  {
+   "source": {
+    "name": "Occupation, semi-natural grassland, OM",
+    "code": "c954c5c8715fdc148dd686c58bb0589c",
+    "unit": "m2a",
+    "context": [
+     "resources",
+     "unspecified"
+    ]
+   },
+   "target": {
+    "name": "grassland",
+    "code": "82801171-9dd0-428e-9cb5-1e9c4211b2f7",
+    "unit": "m2*a",
+    "context": [
+     "Land use",
+     "Land occupation"
+    ]
+   },
+   "comment": "Eaternity: name-evidence resolution (synonym_table) of BAFU class 'semi-natural grassland' -> EF stem 'grassland' (occupation); location=OM; EF 3.1 land-use CF 0.0 at OM equals the CF lci-workbench ships for this flow (JRC EF-LCIAMethod_CF(EF-v3.1).xlsx)"
   },
   {
    "source": {
@@ -323488,6 +323656,27 @@
     ]
    },
    "comment": "Eaternity: name-evidence resolution (verbatim_stem) of BAFU class 'construction site' -> EF stem 'construction site' (occupation); location=BV; EF 3.1 land-use CF 110.79 at GLO equals the CF lci-workbench ships for this flow (JRC EF-LCIAMethod_CF(EF-v3.1).xlsx); 'BV' is a region code JRC does not resolve; the CF is the GLO default — the pair still keeps 'BV' as its location"
+  },
+  {
+   "source": {
+    "name": "Occupation, semi-natural grassland, RW",
+    "code": "caed0d21504120ecc6ff9f16a6a6cb59",
+    "unit": "m2a",
+    "context": [
+     "resources",
+     "unspecified"
+    ]
+   },
+   "target": {
+    "name": "grassland",
+    "code": "82801171-9dd0-428e-9cb5-1e9c4211b2f7",
+    "unit": "m2*a",
+    "context": [
+     "Land use",
+     "Land occupation"
+    ]
+   },
+   "comment": "Eaternity: name-evidence resolution (synonym_table) of BAFU class 'semi-natural grassland' -> EF stem 'grassland' (occupation); location=RW; EF 3.1 land-use CF 0.0 at RW equals the CF lci-workbench ships for this flow (JRC EF-LCIAMethod_CF(EF-v3.1).xlsx)"
   },
   {
    "source": {
@@ -377020,6 +377209,27 @@
   },
   {
    "source": {
+    "name": "Occupation, transitional woodland/shrub, CW",
+    "code": "eeea79753cdcc87184a1edee4e17ac91",
+    "unit": "m2a",
+    "context": [
+     "resources",
+     "unspecified"
+    ]
+   },
+   "target": {
+    "name": "shrub land",
+    "code": "8ee82f3b-c2dd-4807-8e65-b33dc05f4aee",
+    "unit": "m2*a",
+    "context": [
+     "Land use",
+     "Land occupation"
+    ]
+   },
+   "comment": "Eaternity: name-evidence resolution (synonym_table) of BAFU class 'transitional woodland/shrub' -> EF stem 'shrub land' (occupation); location=CW; EF 3.1 land-use CF 0.0 at CW equals the CF lci-workbench ships for this flow (JRC EF-LCIAMethod_CF(EF-v3.1).xlsx)"
+  },
+  {
+   "source": {
     "name": "Occupation, forest, intensive, normal, SR",
     "code": "eeec023269fec40643fda5748b17d99d",
     "unit": "m2a",
@@ -396295,6 +396505,27 @@
     ]
    },
    "comment": "Eaternity: name-evidence resolution (synonym_table) of BAFU class 'forest, intensive, clear-cutting' -> EF stem 'forest, intensive' (occupation); location=IN; EF 3.1 land-use CF 27.242 at IN equals the CF lci-workbench ships for this flow (JRC EF-LCIAMethod_CF(EF-v3.1).xlsx)"
+  },
+  {
+   "source": {
+    "name": "Occupation, semi-natural grassland, IQ",
+    "code": "fbed2c96e7facb5cc3cab1fa6ce5ea04",
+    "unit": "m2a",
+    "context": [
+     "resources",
+     "unspecified"
+    ]
+   },
+   "target": {
+    "name": "grassland",
+    "code": "82801171-9dd0-428e-9cb5-1e9c4211b2f7",
+    "unit": "m2*a",
+    "context": [
+     "Land use",
+     "Land occupation"
+    ]
+   },
+   "comment": "Eaternity: name-evidence resolution (synonym_table) of BAFU class 'semi-natural grassland' -> EF stem 'grassland' (occupation); location=IQ; EF 3.1 land-use CF 0.0 at IQ equals the CF lci-workbench ships for this flow (JRC EF-LCIAMethod_CF(EF-v3.1).xlsx)"
   },
   {
    "source": {

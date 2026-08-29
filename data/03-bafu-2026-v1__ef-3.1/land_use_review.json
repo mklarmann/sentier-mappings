@@ -83,19 +83,6 @@
   },
   {
    "source": {
-    "name": "Occupation, semi-natural grassland, EG",
-    "code": "55d6e1c82ae48ab45eb9b30daa59fc8b",
-    "unit": "m2a",
-    "context": [
-     "resources",
-     "unspecified"
-    ]
-   },
-   "reason": "cf_disagrees_with_shipped",
-   "comment": "Eaternity: stem 'grassland' (synonym_table); JRC 0.0 at EG vs shipped 35.641 (kind=occupation, location=EG)"
-  },
-  {
-   "source": {
     "name": "Transformation, to water courses, artificial",
     "code": "5a024bc304bdd8d0c4ebd4e1f667ba39",
     "unit": "m2",
@@ -161,19 +148,6 @@
   },
   {
    "source": {
-    "name": "Occupation, semi-natural grassland, LS",
-    "code": "709364a4528d6d4f126e6ed00e2748e0",
-    "unit": "m2a",
-    "context": [
-     "resources",
-     "unspecified"
-    ]
-   },
-   "reason": "cf_disagrees_with_shipped",
-   "comment": "Eaternity: stem 'grassland' (synonym_table); JRC 0.0 at LS vs shipped 35.641 (kind=occupation, location=LS)"
-  },
-  {
-   "source": {
     "name": "Transformation, to sea and ocean",
     "code": "70dec1be9df617a820e2c0f858c99888",
     "unit": "m2",
@@ -184,19 +158,6 @@
    },
    "reason": "class_unresolved",
    "comment": "Eaternity: no JRC/EF land stem for BAFU class 'sea and ocean' (seabed, artificial water bodies … carry no EF land CF) (kind=transformation_to, location=GLO)"
-  },
-  {
-   "source": {
-    "name": "Occupation, semi-natural grassland, JO",
-    "code": "74c773fb23a398845cf94210c164731d",
-    "unit": "m2a",
-    "context": [
-     "resources",
-     "unspecified"
-    ]
-   },
-   "reason": "cf_disagrees_with_shipped",
-   "comment": "Eaternity: stem 'grassland' (synonym_table); JRC 0.0 at JO vs shipped 35.641 (kind=occupation, location=JO)"
   },
   {
    "source": {
@@ -239,19 +200,6 @@
   },
   {
    "source": {
-    "name": "Occupation, semi-natural grassland, SA",
-    "code": "991284f79e315dfa4acd90ac733eef2c",
-    "unit": "m2a",
-    "context": [
-     "resources",
-     "unspecified"
-    ]
-   },
-   "reason": "cf_disagrees_with_shipped",
-   "comment": "Eaternity: stem 'grassland' (synonym_table); JRC 0.0 at SA vs shipped 35.641 (kind=occupation, location=SA)"
-  },
-  {
-   "source": {
     "name": "Occupation, water bodies, artificial",
     "code": "9cc13e7396c43dc7ee56f28320ecbd75",
     "unit": "m2a",
@@ -291,19 +239,6 @@
   },
   {
    "source": {
-    "name": "Occupation, transitional woodland/shrub, AW",
-    "code": "a7f06cd31e98409157eb6452143e4a10",
-    "unit": "m2a",
-    "context": [
-     "resources",
-     "unspecified"
-    ]
-   },
-   "reason": "cf_disagrees_with_shipped",
-   "comment": "Eaternity: stem 'shrub land' (synonym_table); JRC 0.0 at AW vs shipped 17.602 (kind=occupation, location=AW)"
-  },
-  {
-   "source": {
     "name": "Transformation, to seabed, unspecified",
     "code": "b12c38fffe0d226e89f4d98d066121be",
     "unit": "m2",
@@ -330,71 +265,6 @@
   },
   {
    "source": {
-    "name": "Occupation, transitional woodland/shrub, BQ",
-    "code": "c335b3589932a924fbeeb280493a0585",
-    "unit": "m2a",
-    "context": [
-     "resources",
-     "unspecified"
-    ]
-   },
-   "reason": "cf_disagrees_with_shipped",
-   "comment": "Eaternity: stem 'shrub land' (synonym_table); JRC 0.0 at BQ vs shipped 17.602 (kind=occupation, location=BQ)"
-  },
-  {
-   "source": {
-    "name": "Occupation, semi-natural grassland, YE",
-    "code": "c93dd418e5514408bbb79504f9c86024",
-    "unit": "m2a",
-    "context": [
-     "resources",
-     "unspecified"
-    ]
-   },
-   "reason": "cf_disagrees_with_shipped",
-   "comment": "Eaternity: stem 'grassland' (synonym_table); JRC 0.0 at YE vs shipped 35.641 (kind=occupation, location=YE)"
-  },
-  {
-   "source": {
-    "name": "Occupation, semi-natural grassland, OM",
-    "code": "c954c5c8715fdc148dd686c58bb0589c",
-    "unit": "m2a",
-    "context": [
-     "resources",
-     "unspecified"
-    ]
-   },
-   "reason": "cf_disagrees_with_shipped",
-   "comment": "Eaternity: stem 'grassland' (synonym_table); JRC 0.0 at OM vs shipped 35.641 (kind=occupation, location=OM)"
-  },
-  {
-   "source": {
-    "name": "Occupation, semi-natural grassland, RW",
-    "code": "caed0d21504120ecc6ff9f16a6a6cb59",
-    "unit": "m2a",
-    "context": [
-     "resources",
-     "unspecified"
-    ]
-   },
-   "reason": "cf_disagrees_with_shipped",
-   "comment": "Eaternity: stem 'grassland' (synonym_table); JRC 0.0 at RW vs shipped 35.641 (kind=occupation, location=RW)"
-  },
-  {
-   "source": {
-    "name": "Occupation, transitional woodland/shrub, CW",
-    "code": "eeea79753cdcc87184a1edee4e17ac91",
-    "unit": "m2a",
-    "context": [
-     "resources",
-     "unspecified"
-    ]
-   },
-   "reason": "cf_disagrees_with_shipped",
-   "comment": "Eaternity: stem 'shrub land' (synonym_table); JRC 0.0 at CW vs shipped 17.602 (kind=occupation, location=CW)"
-  },
-  {
-   "source": {
     "name": "Occupation, water courses, artificial",
     "code": "f201315739ad9caeca80af85bf79486d",
     "unit": "m2a",
@@ -418,19 +288,6 @@
    },
    "reason": "class_unresolved",
    "comment": "Eaternity: no JRC/EF land stem for BAFU class 'sea and ocean' (seabed, artificial water bodies … carry no EF land CF) (kind=occupation, location=GLO)"
-  },
-  {
-   "source": {
-    "name": "Occupation, semi-natural grassland, IQ",
-    "code": "fbed2c96e7facb5cc3cab1fa6ce5ea04",
-    "unit": "m2a",
-    "context": [
-     "resources",
-     "unspecified"
-    ]
-   },
-   "reason": "cf_disagrees_with_shipped",
-   "comment": "Eaternity: stem 'grassland' (synonym_table); JRC 0.0 at IQ vs shipped 35.641 (kind=occupation, location=IQ)"
   }
  ]
 }
